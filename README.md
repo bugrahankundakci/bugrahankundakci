@@ -1,7 +1,7 @@
 # Militancc
 
 ## Hakkımda
-Merhaba! Ben Militan. Daha çok veritabanı sistemleri ve oyun geliştirme konularında uzmanım. Şu anda FiveM paketleri üzerinde çalışıyorum. Amacım, oyun geliştiricilerine ve oyunculara en iyi deneyimi sunmak. Lua, JavaScript, HTML5, CSS3, PHP gibi dillerde ve çeşitli veritabanı sistemlerinde geniş bir bilgiye sahibim.
+Merhaba! Ben Buğra. Daha çok veritabanı sistemleri ve oyun geliştirme konularında uzmanım. Şu anda FiveM paketleri üzerinde çalışıyorum. Amacım, oyun geliştiricilerine ve oyunculara en iyi deneyimi sunmak. Lua, JavaScript, HTML5, CSS3, PHP gibi dillerde ve çeşitli veritabanı sistemlerinde geniş bir bilgiye sahibim.
 
 [![Discord Profilim](https://lanyard.cnrad.dev/api/571989790434787348)](https://discord.com/users/571989790434787348)
 
@@ -22,21 +22,17 @@ Merhaba! Ben Militan. Daha çok veritabanı sistemleri ve oyun geliştirme konul
 - ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-## Şu Anda Bulunduğum Şirket
-
-- [For Development](https://discord.gg/fordevelopment)
 
 ## Şu Anda Çalıştığım Proje
 - **FiveM Paketleri**: FiveM için çeşitli oyun modları ve eklentiler geliştiriyorum. Bu projeler, oyunculara daha zengin ve çeşitli bir oyun deneyimi sunmayı amaçlıyor.
 
 - **Discord Botları**: Şuanlık Fiveme özel botlar yapıyorum. Bot içerikleri; Discord to SQL, Discord to Fivem ve Discord Yönetim gibi dallarda genişleyen yapılar tasarlıyorum.
 
-
 <p align="center">
-  <a href="https://github.com/militancc" target="_blank">
+  <a href="https://github.com/bugrahankundakci" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.instagram.com/militancc" target="_blank">
+  <a href="https://www.instagram.com/bugrahankundakci" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
