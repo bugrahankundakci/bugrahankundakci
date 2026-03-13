@@ -1,4 +1,4 @@
-# Militancc
+# bugrahankundakci
 
 ## Hakkımda
 Merhaba! Ben Buğra. Daha çok veritabanı sistemleri ve oyun geliştirme konularında uzmanım. Şu anda FiveM paketleri üzerinde çalışıyorum. Amacım, oyun geliştiricilerine ve oyunculara en iyi deneyimi sunmak. Lua, JavaScript, HTML5, CSS3, PHP gibi dillerde ve çeşitli veritabanı sistemlerinde geniş bir bilgiye sahibim.
